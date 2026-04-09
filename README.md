@@ -91,13 +91,16 @@ Execute the eval_commonsense.py file and assign " your output_folder" to the var
 
 ## Citation
 
+If you find TalkLoRA useful, please consider giving a star and citation:
+
 ```bibtex
-@inproceedings{
-huang2025hira,
-title={Hi{RA}: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models},
-author={Qiushi Huang and Tom Ko and Zhan Zhuang and Lilian Tang and Yu Zhang},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=TwJrTz9cRS}
+@misc{mu2026talklora,
+      title={TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models}, 
+      author={Lin Mu and Haiyang Wang and Li Ni and Lei Sang and Zhize Wu and Peiquan Jin and Yiwen Zhang},
+      year={2026},
+      eprint={2604.06291},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2604.06291}, 
 }
 ```
